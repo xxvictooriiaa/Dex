@@ -1,0 +1,685 @@
+{
+  "kinich": {
+    "titulo": "Malipo Kinich",
+    "descricao": "ATK: 2k + \nTaxa Crítica: 40% - 50%\nDano Crítico:200% + ",
+    "imagem": "kinich.jpg"
+  },
+  "alhaitham": {
+    "titulo": "Alhaitham",
+    "descricao": "Proficiência: 200-300+ \nTaxa Crítica: 70%-80% \nDano Crítico:160%-200%\n Recarga de Energia: 140+ ",
+    "imagem": "alhaitham.jpg"
+  },
+  "aino": {
+    "titulo": "Aino",
+    "descricao": "Proficiência: 700-800 \nTaxa Crítica: 50%-70% \nDano Crítico:100%-120%\n Recarga de Energia: 150-180(se só tiver ela de Hydro)\nCaso tenha outro Hydro:110-130%",
+    "imagem": "aino.jpg"
+  },
+  "albedo": {
+    "titulo": "Albedo",
+    "descricao": "Defesa: 2000-3000 \nTaxa Crítica: 60%-70% \nDano Crítico:140%+",
+    "imagem": "albedo.jpg"
+  },
+  "arlecchino": {
+    "titulo": "Arlecchino",
+    "descricao": "Ataque: 2000+ \nTaxa Crítica: 70%-80% \nDano Crítico:160%+",
+    "imagem": "arlecchino.jpg"
+  },
+  "ayato": {
+    "titulo": "Ayato (Yayato)",
+    "descricao": "Ataque: 2000+ \nTaxa Crítica: 70%-80% \nDano Crítico:160%+ \nRecarga de Energia: 100-130%",
+    "imagem": "ayato.jpg"
+  },
+  "chasca": {
+    "titulo": "Chasca",
+    "descricao": "Ataque: 2000+ \nTaxa Crítica: 40%-50% \nDano Crítico:200%+",
+    "imagem": "chasca.jpg"
+  },
+  "chevreuse": {
+    "titulo": "Chevereuse",
+    "descricao": "Vida: 35.000-40.000 \nRecarga de Energia:160-200",
+    "imagem": "chevreuse.jpg"
+  },
+  "chiori": {
+    "titulo": "Chiori",
+    "descricao": "Defesa:2000-2400 \nTaxa Crítica: 70%-80% \nDano Crítico:160%+",
+    "imagem": "chiori.jpg"
+  },
+  "citlali ": {
+    "titulo": "Citlali ",
+    "descricao": "Proficiência: 800+ \nRecarga de Energia: 170%+",
+    "imagem": "citlali.jpg"
+  },
+  "clorinde": {
+    "titulo": "Clorinde",
+    "descricao": "Ataque: 1.800+ \nTaxa Crítica: 70%-80% \nDano Crítico:160%+\nRecarga de Energia: 110-130%",
+    "imagem": "clorinde.jpg"
+  },
+  "dahlia": {
+    "titulo": "Dahlia",
+    "descricao": "Vida: 40.000+ \nRecarga de Energia:200%+",
+    "imagem": "dahlia.jpg"
+  },
+  "durin": {
+    "titulo": "Durin (Durinzinho)",
+    "descricao": "Ataque: 2.000+ \nTaxa Crítica: 60%-70% \nDano Crítico:200%+\nRecarga de Energia: Se tiver coroado não precisa",
+    "imagem": "durin.jpg"
+  },
+  "fischl": {
+    "titulo": "Fischl",
+    "descricao": "Ataque: 2000 \nTaxa Crítica: 60%+ \nDano Crítico:120%+\nRecarga de Energia: 110-130%(Se tiver outro Electro no time)\nSe não tiver outro Electro: 130-150%",
+    "imagem": "fischl.jpg"
+  },
+  "flins": {
+    "titulo": "Flins",
+    "descricao": "Ataque: 2500+ \nTaxa Crítica: 40%-50% \nDano Crítico:175%+\nProficiência: 100-200\n Recarga de Energia: 130-140%(Atenção! o Flins TEM QUE TER OUTRO ELECTRO NO TIME)",
+    "imagem": "flins.jpg"
+  },
+  "furina": {
+    "titulo": "Furina",
+    "descricao": "Vida: 35.000-40.000 \nRecarga de Energia:180%+\n Taxa Crítica: 60%-80% \nDano Crítico:160-200%+",
+    "imagem": "furina.jpg"
+  },
+  "gaming": {
+    "titulo": "Gaming",
+    "descricao": "Ataque: 1800+ \nTaxa Crítica: 45%-50%(Se tiver com o Caçador Marechaussee) / 70-80% (Outros conjuntos de artefatos) \nDano Crítico:160%+\nProficiência: 200-300+( se for focado na reações) / 100+(se for focado no dano puro)",
+    "imagem": "gaming.jpg"
+  },
+  "iansan": {
+    "titulo": "Iansan",
+    "descricao": "Ataque: 2500+ \nRecarga de Energia: 180-200%+ (Se tiver com outro Electro no time: 140%-160%)",
+    "imagem": "iansan.jpg"
+  },
+  "ineffa": {
+    "titulo": "Ineffa",
+    "descricao": "Ataque: 2000+ \nTaxa Crítica: 70%-80% \nDano Crítico:160%+\nRecarga de Energia: 110-130%",
+    "imagem": "ineffa.jpg"
+  },
+  "jahoda": {
+    "titulo": "Jahoda",
+    "descricao": "Ataque: 1800+ \nProficiência: 200+ \nRecarga de Energia: 180%-200%",
+    "imagem": "jahoda.jpg"
+  },
+  "kachina": {
+    "titulo": "Kachina",
+    "descricao": "Defesa: 2000+ \nTaxa Crítica: 50%-60% \nDano Crítico:100%-120%\n Recarga de Energia: 180%-200%(Se tiver sem nenhum Geo) / 130%-150%(Se tiver com outro Geo no time)",
+    "imagem": "kachina.jpg"
+  },
+  "kaveh": {
+    "titulo": "Kaveh",
+    "descricao": "Recarga de Energia: 210% ou superior (se Solo Dendro) - 160% ou mais (se for com companheiro de equipe Dendro)\nProficiência: 600+\n Taxa Crítica: 40%-50%(Se tiver com espada de grande favonius)",
+    "imagem": "kaveh.jpg"
+  },
+  "kirara": {
+    "titulo": "Kirara",
+    "descricao": "Vida: 35.000+ \nRecarga de Energia:160%+",
+    "imagem": "kirara.jpg"
+  },
+  "lauma": {
+    "titulo": "Lauma",
+    "descricao": "Proficiência: 1000\nTaxa Crítica: 40%-50% \nDano Crítico:100%+\n Recarga de Energia: 160-200 ",
+    "imagem": "lauma.jpg"
+  },
+  "lyney": {
+    "titulo": "Lyney (Lacrei)",
+    "descricao": "Ataque: 2200+ \nTaxa Crítica: 50%-60% (Com o Set do Caçador Marechaussee, se não tiver coloque 75%-80%) \nDano Crítico:200%+\nRecarga de Energia: 120%+",
+    "imagem": "lyney.jpg"
+  },
+  "lynette": {
+    "titulo": "Lynette (Lacrete)",
+    "descricao": "Ataque:1.800+ \nRecarga de Energia:160-200%\n Taxa Crítica: 50%-60% \nDano Crítico:120%+",
+    "imagem": "lynette.jpg"
+  },
+  "mona": {
+    "titulo": "Mona",
+    "descricao": "Ataque: 2k+ \nRecarga de Energia:200%-300\n Taxa Crítica: 50%+\nDano Crítico:100%+",
+    "imagem": "mona.jpg"
+  },
+  "mualani": {
+    "titulo": "Mualani",
+    "descricao": "Vida: 30.000+ \n Taxa Crítica: 40%-50% \nDano Crítico:200%+",
+    "imagem": "mualani.jpg"
+  },
+  "nahida": {
+    "titulo": "Nahida",
+    "descricao": "Proficiência: 800+\nRecarga de Energia: 130%-160%",
+    "imagem": "nahida.jpg"
+  },
+  "navia": {
+    "titulo": "Navia",
+    "descricao": "Ataque: 2000+ \nTaxa Crítica: 70%-80% \nDano Crítico:160%+\nRecarga de Energia: 130%+",
+    "imagem": "navia.jpg"
+  },
+  "nefer": {
+    "titulo": "Neuvillette",
+    "descricao": "Proficiência: 500+\nTaxa Crítica: 40%-50%\nDano Crítico:220%+",
+    "imagem": "nefer.jpg"
+  },
+  "nilou": {
+    "titulo": "Nilou",
+    "descricao": "Hp: 60.000\nRecarga de Energia: 170%+",
+    "imagem": "nilou.jpg"
+  },
+  "ororon": {
+    "titulo": "Ororon",
+    "descricao": "Ataque: 2000+\nTaxa Crítica: 60%+ \nDano Crítico:150%+\nRecarga de Energia: 110-130+( se tiver com outro Electro no time) / 160+(se tiver solo Electro)",
+    "imagem": "ororon.jpg"
+  },
+  "sethos": {
+    "titulo": "Sethos",
+    "descricao": "Taxa Crítica: 60-70%\nDano Crítico:150%+\n Proficiência: 300+\n Recarga de Energia: 130+(Se tiver com outro Electro no time) / 150-160 (se tiver solo Electro)",
+    "imagem": "sethos.jpg"
+  },
+  "sigewinne": {
+    "titulo": "Sigewinne",
+    "descricao": "Hp: 60.000+\nRecarga de Energia: 130%-150%",
+    "imagem": "sigewinne.jpg"
+  },
+  "skirk": {
+    "titulo": "Skirk",
+    "descricao": "Ataque: 2100+\nTaxa Crítica: 70%-80%\nDano Crítico:200%+",
+    "imagem": "skirk.jpg"
+  },
+  "sucrose": {
+    "titulo": "Sucrose",
+    "descricao": "Proficiência: 800+\nRecarga de Energia: 130%-160%",
+    "imagem": "sucrose.jpg"
+  },
+  "wanderer": {
+    "titulo": "Wanderer(Scaramouche)",
+    "descricao": "Ataque: 2000\nTaxa Crítica: 70%-80%\nDano Crítico:160%+\nRecarga de Energia: 100-130",
+    "imagem": "wanderer.jpg"
+  },
+  "wriothesley": {
+    "titulo": "Wriothesley (Wesley)",
+    "descricao": "Ataque: 2000-2200\nTaxa Crítica: 50%-60%( Se tiver com Caçador Marechaussee) - 70%-80% (Se não tiver)\nDano Crítico:200%+\nRecarga de Energia: 100-130%",
+    "imagem": "wriothesley.jpg"
+  },
+  "xianyun": {
+    "titulo": "Xianyun(Retentora das Nuvens)",
+    "descricao": "Ataque: 3.5k - 4k\nRecarga de Energia: 200%+",
+    "imagem": "xianyun.jpg"
+  },
+  "xilonen": {
+    "titulo": "Xilonen",
+    "descricao": "Defesa: 2.5k - 3k\nRecarga de Energia: 190%+",
+    "imagem": "xilonen.jpg"
+  },
+  "xingqiu": {
+    "titulo": "Xingqiu (Xiquinho)",
+    "descricao": "Ataque: 1.800+ \nTaxa Crítica: 60%-70% \nDano Crítico:120%-150%+\nRecarga de Energia: 180%+",
+    "imagem": "xingqiu.jpg"
+  },
+
+
+
+
+  
+
+  "acheron": {
+    "titulo": "Acheron",
+    "descricao": "HP: 2800-3000+ \nDEF: 800+ \nAtaque: 2900-3200+ \nTaxa Crítica: 80%-90%+ \nDano Crítico: 160%-180%+ \nVelocidade: 101 ou 134+",
+    "imagem": "acheron.jpg"
+  },
+  "aglaea": {
+    "titulo": "Aglaea",
+    "descricao": "Ataque: 1900-2200+ (Pré-combate) \nHP: 2800-3100 \nDEF: 900+ \nTaxa Crítica: 80%-100% \nDano Crítico: 100%-140%+ \nRecarga de Energia: 119.4% \nVelocidade: (ver guia de velocidade)",
+    "imagem": "aglaea.jpg"
+  },
+  "anaxa": {
+    "titulo": "Anaxa",
+    "descricao": "Ataque: 2600-3000+ \nHP: 2800+ \nDEF: 1100+ \nTaxa Crítica: 90%-100% \nDano Crítico: 100%-120%+ (antes dos traços) \nVelocidade: 134+",
+    "imagem": "anaxa.jpg"
+  },
+  "archer": {
+    "titulo": "Archer",
+    "descricao": "HP: 3000+ \nDEF: 900+ \nAtaque: 2800-3200+ \nTaxa Crítica: 100% (após buffs da equipe) \nDano Crítico: 140%-180%+ \nVelocidade: Velocidade base",
+    "imagem": "archer.jpg"
+  },
+  "argenti": {
+    "titulo": "Argenti",
+    "descricao": "HP: 2900-3000+ \nDEF: 800+ \nAtaque: 2600-3000+ \nTaxa Crítica: 75%-80% (incluindo talento) \nDano Crítico: 150%-160%+ (com buffs ativos) \nVelocidade: Base (Se Tiver com Sparkle/Bronya) / 134",
+    "imagem": "argenti.jpg"
+  },
+  "arlan": {
+  "titulo": "Arlan",
+  "descricao": "HP: 3100+ \nDEF: 800+ \nAtaque: 2400-2800+ \nTaxa Crítica: 60%-70%+ \nDano Crítico: 120%-140%+ \nVelocidade: Base (Hyperspeed Sparkle/Bronya) / 134 (recomendado) / 143",
+  "imagem": "arlan.jpg"
+},
+"asta": {
+  "titulo": "Asta",
+  "descricao": "HP: 3600-4400+ \nDEF: 900-1100+ \nVelocidade: 134 / 143 (recomendado) / 160+ \nRecarga de Energia: 119.44%+",
+  "imagem": "asta.jpg"
+},
+"aventurine": {
+  "titulo": "Aventurine",
+  "descricao": "HP: 2900-3000+ \nDEF: 4000+ \nTaxa Crítica: 60%-90%+ (incluindo o traço) \nDano Crítico: 110%-170%+ \nVelocidade: 106 ou 134+",
+  "imagem": "aventurine.jpg"
+},
+"bailu": {
+  "titulo": "Bailu",
+  "descricao": "HP: 5600-6400+ \nDEF: 800-1100+ \nVelocidade: 134 (recomendado) / 143 / 160 \nRecarga de Energia: 119.44%+",
+  "imagem": "bailu.jpg"
+},
+"blackswan": {
+  "titulo": "Black Swan",
+  "descricao": "HP: 2800-3000+ \nDEF: 800-900+ \nAtaque: 3100+ \nTaxa de Acerto de Efeito: 120% \nVelocidade: 134 / 160",
+  "imagem": "blackswan.jpg"
+},
+"blade": {
+  "titulo": "Blade (Build Atualizada)",
+  "descricao": "HP: 6000-7200+ \nDEF: 800-900+ \nTaxa Crítica: 80%-100% \nDano Crítico: 150%-180%+ \nVelocidade: 135 (ou 1 ponto acima do seu booster)",
+  "imagem": "blade.jpg"
+},
+"boothill": {
+  "titulo": "Boothill",
+  "descricao": "HP: 2900-3200 \nEfeito de Quebra: 260%-340% \nVelocidade: 145 / 160 / 200",
+  "imagem": "boothill.jpg"
+},
+"bronya": {
+  "titulo": "Bronya",
+  "descricao": "HP: 3000-4000+ \nDEF: 800-1100+ \nVelocidade: 1-2 pontos mais lenta que o carry / 160+ (carry com 0 SPD) \nRecarga de Energia: 119.44%+ \nDano Crítico: 175%-210%+",
+  "imagem": "bronya.jpg"
+},
+"castorice": {
+  "titulo": "Castorice",
+  "descricao": "HP: 7000-8000+ \nDEF: 700+ \nTaxa Crítica: 80%-100% (já contando o set do Poeta) \nDano Crítico: 200%-220%+ \nVelocidade: Base ou <95",
+  "imagem": "castorice.jpg"
+},
+"cerydra": {
+  "titulo": "Cerydra",
+  "descricao": "HP: 3500-4000+ \nDEF: 1000-1200+ \nAtaque: 4000+ \nVelocidade: 140+ (vira 160+ em combate)",
+  "imagem": "cerydra.jpg"
+},
+"cipher": {
+  "titulo": "Cipher",
+  "descricao": "HP: 2800-3200+ \nDEF: 1000-1200+ \nVelocidade: 170+ (em combate) \nAtaque: 2200-2700 (opcional, com corda de ATK%) \nTaxa Crítica: 100% (em combate) / 50% (fora de combate) \nDano Crítico: 130%-160%+ \nTaxa de Acerto de Efeito: 39% (assinatura/habilidade) / 67% (Pearls of Sweat)",
+  "imagem": "cipher.jpg"
+},
+"clara": {
+  "titulo": "Clara",
+  "descricao": "HP: 3200+ \nDEF: 800-900+ \nAtaque: 3200-3600+ \nTaxa Crítica: 60%-70%+ \nDano Crítico: 120%-140%+ \nVelocidade: 90 / 100 (lutas longas)",
+  "imagem": "clara.jpg"
+},
+"cyrene": {
+  "titulo": "Cyrene",
+  "descricao": "HP: 5000+ \nDEF: 1000+ \nTaxa Crítica: 50% \nDano Crítico: 100%-160% \nVelocidade: 180 / 200+",
+  "imagem": "cyrene.jpg"
+},
+"dan heng": {
+  "titulo": "Dan Heng (Normal)",
+  "descricao": "HP: 2800-3000+ \nDEF: 800-900+ \nAtaque: 2100-2500+ \nTaxa Crítica: 65%-75%+ \nDano Crítico: 130%-150%+ \nVelocidade: Base (Hyperspeed Sparkle/Bronya) / 134 (recomendado) / 143 / 160",
+  "imagem": "danheng.jpg"
+},
+"imbibitor lunae": {
+  "titulo": "Dan Heng Imbibitor Lunae",
+  "descricao": "HP: 3200+ \nDEF: 800+ \nAtaque: 2200-2600+ \nTaxa Crítica: 75%-85%+ \nDano Crítico: 145%-165%+ \nVelocidade: Base (Hyperspeed Sparkle/Bronya)",
+  "imagem": "imbibitorlunae.jpg"
+},
+"permansor terrae": {
+  "titulo": "Dan Heng Permansor Terrae",
+  "descricao": "HP: 3000+ \nDEF: 1300+ \nAtaque: 3000-4000+ \nVelocidade: 134+ / 160 (A Prioridade é ficar próximo da velocidade do time; ser mais rápido é opcional, sem breakpoint fixo)",
+  "imagem": "permansorterrae.jpg"
+},
+"dr ratio": {
+    "titulo": "Dr. Ratio",
+    "descricao": "HP: 2800-3000+ \nDEF: 900-1000+ \nATAQUE: 2700-3100+ \nTAXA CRÍTICA: 90%-100% (incluindo buffs próprios do Dr. Ratio) \nDANO CRÍTICO: 180%-200%+ (incluindo buffs próprios do Dr. Ratio) \nVELOCIDADE: Velocidade base / 134 (Recomendado) / 143 / 161",
+    "imagem": "drratio.jpg"
+},
+"feixiao": {
+    "titulo": "FeiXiao",
+    "descricao": "HP: 2800+ \nDEF: 900+ \nATAQUE: 2700-3300+ (dependendo se estiver usando botas de VELOCIDADE ou %ATK) \nTAXA CRÍTICA: 85%-95% \nDANO CRÍTICO: 134%-154% \nVELOCIDADE: 112+ (build focada em ATAQUE, dependente de aliados para Aureus), 134+ (para atingir breakpoint do ciclo MoC sem buffs - com alguns buffs de velocidade, é possível construir menos)",
+    "imagem": "feixiao.jpg"
+},
+"firefly": {
+    "titulo": "Firefly",
+    "descricao": "HP: 2600+ \nVELOCIDADE: 150 (fora do Combustão) / 210 (durante Combustão) \n165 de Velocidade (ou mais) fora do estado Combustão garante uma ação extra no Ciclo 0 de Memória do Caos \nEFEITO DE QUEBRA: 360%",
+    "imagem": "firefly.jpg"
+},
+"fu xuan": {
+    "titulo": "Fu Xuan",
+    "descricao": "HP: 6500-8000 (com Matriz ativa) \nDEF: 1400-1600 \nVELOCIDADE: 134 (Recomendado) / 143 / 160 \nREGENERAÇÃO DE ENERGIA: 19,44%+",
+    "imagem": "fuxuan.jpg"
+},
+"gallagher": {
+    "titulo": "Gallagher(13 aninhos)",
+    "descricao": "HP: 4300-4700+ \nDEF: 800+ \nVELOCIDADE: 134 (Recomendado) / 143 / 160 \nEFEITO DE QUEBRA: 60% (máximo 150%)",
+    "imagem": "gallagher.jpg"
+},
+"gepard": {
+    "titulo": "Gepard",
+    "descricao": "HP: 3000-3500+ \nDEF: 2400-2900+ \nVELOCIDADE: 100 / 121 / 134+ (Melhor) \nREGENERAÇÃO DE ENERGIA: 119,44%+",
+    "imagem": "gepard.jpg"
+},
+"guinaifen": {
+    "titulo": "Guinaifen",
+    "descricao": "HP: 3000+ \nDEF: 800-900+ \nATAQUE: 2600-3000+ \nVELOCIDADE: 134 / 143 (Recomendado) \nTAXA DE ACERTO DE EFEITOS: 67%",
+    "imagem": "guinaifen.jpg"
+},
+"hanya": {
+    "titulo": "Hanya",
+    "descricao": "HP: 3500-4400+ \nDEF: 700-1300+ \nVELOCIDADE: 165-175+ \nREGENERAÇÃO DE ENERGIA: 19,44%+",
+    "imagem": "hanya.jpg"
+},
+"herta": {
+    "titulo": "Herta",
+    "descricao": "HP: 2800-3000+ \nDEF: 900-1100+ \nATAQUE: 2000-2400+ \nTAXA CRÍTICA: 65%-70%+ \nDANO CRÍTICO: 130%-150%+ \nVELOCIDADE: Velocidade base (build focada em FUA) / 134+",
+    "imagem": "herta.jpg"
+},
+"himeko": {
+    "titulo": "Himeko",
+    "descricao": "HP: 2800-3000+ \nDEF: 800+ \nATAQUE: 2500-2900+ \nTAXA CRÍTICA: 65%-70%+ \nDANO CRÍTICO: 130%-140%+ \nVELOCIDADE: Velocidade base \nSe estiver jogando Himeko como Super Breaker, foque em Efeito de Quebra e ignore o Crítico.",
+    "imagem": "himeko.jpg"
+},
+"hook": {
+    "titulo": "Hook",
+    "descricao": "HP: 3500+ \nDEF: 700-800+ \nATAQUE: 2400-2800+ \nTAXA CRÍTICA: 60%-70%+ \nDANO CRÍTICO: 120%-140%+ \nVELOCIDADE: Velocidade base (com Hyperspeed Sparkle/Bronya) / 134 (Recomendado) / 143",
+    "imagem": "hook.jpg"
+},
+"huohuo": {
+    "titulo": "Huohuo",
+    "descricao": "HP: 5600-6400+ \nDEF: 800-900+ \nVELOCIDADE: 134 / 143 (Recomendado) / 160 \nREGENERAÇÃO DE ENERGIA: 119,44%+",
+    "imagem": "huohuo.jpg"
+},
+"hyacine": {
+    "titulo": "Hyacine",
+    "descricao": "HP: 4300-5000+ \nDEF: 1000+ \nDANO CRÍTICO: 100%-120%+ \nVELOCIDADE: 200+ (em combate) \nRESISTÊNCIA A EFEITOS: 32% (bom ter) \nHyacine ganha 68% de Resistência a Efeitos gratuitamente com sua habilidade bônus e traços. Depois de atingir os outros objetivos de stats, vale a pena investir tempo para obter os 32% restantes para torná-la imune a efeitos.",
+    "imagem": "hyacine.jpg"
+},
+"hysilens": {
+    "titulo": "Hysilens",
+    "descricao": "ATAQUE: 3000-3500+ \nHP: 3000+ \nDEF: 900+ \nVELOCIDADE: 134 / 160 \nTAXA DE ACERTO DE EFEITOS: 120%",
+    "imagem": "hysilens.jpg"
+},
+"jade": {
+    "titulo": "Jade",
+    "descricao": "HP: 2800+ \nDEF: 900+ \nATAQUE: 2700-3000+ \nTAXA CRÍTICA: 75%-100% \nDANO CRÍTICO: 100%-120%+ \nVELOCIDADE: 103 (Velocidade base) / 134",
+    "imagem": "jade.jpg"
+},
+"jiaoqiu": {
+    "titulo": "Jiaoqiu",
+    "descricao": "HP: 3000+ \nDEF: 900+ \nATAQUE: 4000+ (em combate com boost de ATK de 240% no máximo) \nTAXA DE ACERTO DE EFEITOS: 140%+ (mais pode ser útil contra inimigos com mais de 40% de resistência) \nVELOCIDADE: O suficiente para ultrapassar todos os personagens DPS, e até mais se desejado.",
+    "imagem": "jiaoqiu.jpg"
+},
+"jing yuan": {
+    "titulo": "Jing Yuan",
+    "descricao": "HP: 2800-3000+ \nDEF: 900-1100+ \nATAQUE: 2600-3000+ \nTAXA CRÍTICA: 80%-90%+ (com buffs ativos) \nDANO CRÍTICO: 140%-160%+ \nVELOCIDADE: Duas opções:\n- 134+ de Velocidade quando jogar Jing Yuan com Sunday no setup -1 de Velocidade. Pode mirar em mais Velocidade, mas certifique-se que Sunday esteja sempre 1 ponto mais lento que Jing Yuan (opção preferida).\n- Velocidade base quando jogar Jing Yuan com Sparkle no setup Hyperspeed ou com um Hanya muito, muito rápido (setup alternativo e menos ideal para quem ainda não tem Sunday e precisa usar Sparkle, ou joga com Sunday e Hanya sem ter Robin).",
+    "imagem": "jingyuan.jpg"
+},
+"jingliu": {
+    "titulo": "Jingliu",
+    "descricao": "HP: 6000-7400+ \nDEF: 800-900+ \nTAXA CRÍTICA: 50% (sem talento, mas incluindo buffs da equipe) \nDANO CRÍTICO: 110%-150%+ (antes do buff de traço) \nVELOCIDADE: 135 (ou 1 ponto de Velocidade mais rápido que seu booster)",
+    "imagem": "jingliu.jpg"
+},
+"kafka": {
+    "titulo": "Kafka",
+    "descricao": "HP: 3000+ \nDEF: 900+ \nATAQUE: 2500-3000+ \nTAXA DE ACERTO DE EFEITOS: 75% (mais pode ser útil para aplicar alguns efeitos do Cone) \nVELOCIDADE: 160+",
+    "imagem": "kafka.jpg"
+},
+"lingsha": {
+    "titulo": "Lingsha",
+    "descricao": "HP: 3400-3600+ \nDEF: 800+ \nATAQUE: 2000-2200+ \nEFEITO DE QUEBRA: 100%+ \nVELOCIDADE: 151 (mínimo) - 160+ (menos necessário se seu setup fornecer buffs de Velocidade/ação para Lingsha)",
+    "imagem": "lingsha.jpg"
+},
+"luka": {
+    "titulo": "Luka",
+    "descricao": "HP: 3000+ \nDEF: 900-1000+ \nATAQUE: 2400-2800+ \nVELOCIDADE: 134 / 143 (Recomendado) / 160 \nTAXA DE ACERTO DE EFEITOS: 67% \nEFEITO DE QUEBRA: 0%-120%",
+    "imagem": "luka.jpg"
+},
+"loucha": {
+    "titulo": "Loucha",
+    "descricao": "HP: 3500-4000+ \nDEF: 800+ \nATAQUE: 2400-2600+ \nVELOCIDADE: 134 / 143 / 160 \nREGENERAÇÃO DE ENERGIA: 19,44%+",
+    "imagem": "loucha.jpg"
+},
+"lynx": {
+    "titulo": "Lynx",
+    "descricao": "HP: 5000-5700+ \nDEF: 900-1200+ \nVELOCIDADE: 134 (Recomendado) / 143 / 160 \nREGENERAÇÃO DE ENERGIA: 19,44%+",
+    "imagem": "lynx.jpg"
+},
+"7 de março": {
+    "titulo": "7 de Março",
+    "descricao": "HP: 3000+ \nDEF: 1800-2200+ (build focada em Taxa de Acerto de Efeitos) / 2800-3400+ (build sem Freeze) \nVELOCIDADE: 134 (Recomendado) / 143 / 160 \nREGENERAÇÃO DE ENERGIA: 19,44%+ \nTAXA DE ACERTO DE EFEITOS: 64%-92% (recomendado) / 0% (se não usar build Freeze)",
+    "imagem": "7demarco.jpg"
+},
+"evernight": {
+    "titulo": "Evernight/Noite Eterna (7 de Malço)",
+    "descricao": "HP: 7000-8000 \nTAXA CRÍTICA: 65% antes da passiva de Evernight (100% com passivo ativo) \nDANO CRÍTICO: 160%-180%+ (antes do buff de traço) \nVELOCIDADE: 99+ (Velocidade base ou um pouco mais alta é aceitável graças ao buff de Velocidade dela)",
+    "imagem": "evernight.jpg"
+},
+"7 de março caça": {
+    "titulo": "7 de Março Caça",
+    "descricao": "MARCH CRITICO  (Sem buff E1 Shifu):\nHP: 2800+ \nDEF: 900+ \nATAQUE: 2200-2500+ \nTAXA CRÍTICA: 75%-85% \nDANO CRÍTICO: 150%-170%+ \nVELOCIDADE: 123+ (equivalente a 134 em combate)\n\n MARCH Break (Sem buff E1 Shifu):\nHP: 2800+ \nDEF: 900+ \nEFEITO DE QUEBRA: 140%+ \nATAQUE: 1800-2100+ (Opcional) \nTAXA CRÍTICA: 50%-60%+ (Opcional) \nDANO CRÍTICO: 100%-120%+ (Opcional) \nVELOCIDADE: 123+ (equivalente a 134 em combate) / 133+ (equivalente a 145 em combate para Talia)",
+    "imagem": "7caca.jpg"
+},
+"misha": {
+    "titulo": "Misha",
+    "descricao": "HP: 3000+ \nDEF: 800-1000+ \nATAQUE: 2000-2400+ \nTAXA CRÍTICA: 65%-70%+ \nDANO CRÍTICO: 120%-130%+ \nVELOCIDADE: Velocidade base (com Hyperspeed Sparkle/Bronya) / 134+",
+    "imagem": "misha.jpg"
+},
+"moze": {
+    "titulo": "Moze",
+    "descricao": "ATAQUE: 2400-2600+ \nTAXA CRÍTICA: 80%-100% \nDANO CRÍTICO: 120%-140%+ \nVELOCIDADE: Velocidade suficiente para garantir que Moze mova primeiro em combate e não retorne do off-field após muitas ações de aliados.",
+    "imagem": "moze.jpg"
+},
+"mydei": {
+    "titulo": "Mydei",
+    "descricao": "HP: 8000 \nTAXA CRÍTICA: 90%-100% (em combate) \nBasta alcançar 100% e relaxar. Todos sabemos que, mesmo com 99,9% de chance, você vai errar o crítico no momento mais crucial.\nDANO CRÍTICO: 160%+ \nVELOCIDADE: Velocidade base OU 134+",
+    "imagem": "mydei.jpg"
+},
+"natasha": {
+    "titulo": "Natasha",
+    "descricao": "HP: 5200-6100+ \nDEF: 800-1000+ \nVELOCIDADE: 134 (Recomendado) / 143 / 160 \nREGENERAÇÃO DE ENERGIA: 19,44%+",
+    "imagem": "natasha.jpg"
+},
+"pela": {
+    "titulo": "Pela",
+    "descricao": "HP: 3500-4000+ \nDEF: 1000+ \nVELOCIDADE: 134 / 143 (Recomendado) / 160+ \nREGENERAÇÃO DE ENERGIA: 19,44%+ \nTAXA DE ACERTO DE EFEITOS: 67% (incluindo Habilidade Bônus)",
+    "imagem": "pela.jpg"
+},
+"phainon": {
+    "titulo": "Phainon",
+    "descricao": "ATAQUE: 2200-2600+ \nHP: 3200+ \nDEF: 1000+ \nTAXA CRÍTICA: 90%-100% \nDANO CRÍTICO: 160%-180%+ (antes do traço) \nVELOCIDADE: Phainon não recebe benefício de %SPD ou SPD fixo durante seu Ultimate, portanto Velocidade não é uma stat de dano para ele. Mesmo assim, ele pode se aproveitar de tuning de Velocidade, especialmente com personagens que dão boost como Sunday e Bronya, permitindo acumular stacks de Coreflame mais rápido e consistentemente. O método mais comum é construir Phainon 1 ponto de Velocidade mais rápido que seus boosters, garantindo 2 ou mais ações para gerar Coreflame. Exemplo:\nPhainon: 136 VELOCIDADE\nSunday: 135 VELOCIDADE\nBronya: 134 VELOCIDADE",
+    "imagem": "phainon.jpg"
+},
+"qingque": {
+    "titulo": "Qingque",
+    "descricao": "HP: 2800-3000+ \nDEF: 800-1000+ \nATAQUE: 2500-2900+ \nTAXA CRÍTICA: 65%-70%+ \nDANO CRÍTICO: 130%-140%+ \nVELOCIDADE: Velocidade base (com Hyperspeed Sparkle/Bronya) / 134+",
+    "imagem": "qingque.jpg"
+},
+"rappa": {
+    "titulo": "Rappa",
+    "descricao": "HP: 2800+ \nDEF: 800+ \nATAQUE: 3200 (totalmente buffado em combate, mas é opcional - Velocidade e Efeito de Quebra são mais importantes) \nEFEITO DE QUEBRA: 160%-240%+ (antes dos buffs da equipe - se estiver usando corda de ER, não alcançará) \nVELOCIDADE: 145-150+",
+    "imagem": "rappa.jpg"
+},
+"robin": {
+    "titulo": "Robin",
+    "descricao": "HP: 3200+ \nATAQUE: 3000-4400+ \nDEF: 800+ \nVELOCIDADE: 120+ (aumente um pouco se Robin não for o primeiro a agir no início da batalha) \nREGENERAÇÃO DE ENERGIA: 19,44%+",
+    "imagem": "robin.jpg"
+},
+"ruan mei": {
+    "titulo": "Ruan Mei",
+    "descricao": "HP: 3700-5000+ \nDEF: 1000-1100+ \nVELOCIDADE: 109 / 121 / 134 (Recomendado) \nREGENERAÇÃO DE ENERGIA: 119,44%+ \nEFEITO DE QUEBRA: 180%+ (com A2 ativo)",
+    "imagem": "ruanmei.jpg"
+},
+"saber": {
+    "titulo": "Saber",
+    "descricao": "HP: 3300+ \nDEF: 1000+ \nATAQUE: 2600-3000+ \nTAXA CRÍTICA: 100% (em combate com 20% de talento e buffs) \nDANO CRÍTICO: 150%-180%+ \nVELOCIDADE: 135 Velocidade base (ou 1 ponto de Velocidade mais rápido que seu booster)",
+    "imagem": "saber.jpg"
+},
+"sampo": {
+    "titulo": "Sampo",
+    "descricao": "HP: 3000+ \nDEF: 800-900+ \nATAQUE: 2800-3200+ \nVELOCIDADE: 134 / 143 (Recomendado) / 160 \nTAXA DE ACERTO DE EFEITOS: 67%-80%",
+    "imagem": "sampo.jpg"
+},
+"seele": {
+    "titulo": "Seele",
+    "descricao": "HP: 2800-3000+ \nDEF: 800-900+ \nATAQUE: 2900-3300+ \nTAXA CRÍTICA: 80%+ (mas todos sabemos que se não for 100%, ela nunca vai critar) \nDANO CRÍTICO: 160%+ \nVELOCIDADE: 115",
+    "imagem": "seele.jpg"
+},
+"serval": {
+    "titulo": "Serval",
+    "descricao": "HP: 2800-3000+ \nDEF: 800+ \nATAQUE: 2200-2600+ \nTAXA CRÍTICA: 65%-75%+ \nDANO CRÍTICO: 130%-150%+ \nVELOCIDADE: 134+ / 160+ (com equipe Eagle + Passkey The Herta)",
+    "imagem": "serval.jpg"
+},
+"silver wolf": {
+    "titulo": "Silver Wolf",
+    "descricao": "HP: 3000+ \nDEF: 900+ \nTAXA DE ACERTO DE EFEITOS: 50%-67% \nVELOCIDADE: 160+ \nStats opcionais para endgame:\nATAQUE: 2000-2500+ \nTAXA CRÍTICA: 50%+ \nDANO CRÍTICO: 100%+",
+    "imagem": "silver_wolf.jpg"
+},
+"sparkle": {
+    "titulo": "Sparkle",
+    "descricao": "HP: 4000-4500+ \nDEF: 800-1000+ \nDANO CRÍTICO: 175%-210%+ \nREGENERAÇÃO DE ENERGIA: 119,44%+ \nVELOCIDADE:\n1-2 pontos mais lento que o carry se estiver jogando Sparkle no setup -1 de Velocidade,\n160+ se estiver jogando Hyperspeed Sparkle.",
+    "imagem": "sparkle.jpg"
+},
+"sunday": {
+    "titulo": "Sunday",
+    "descricao": "HP: 4000-4500+ \nDEF: 1000-1200+ \nDANO CRÍTICO: 180%-220%+ \nREGENERAÇÃO DE ENERGIA: 119,44%-124,44%+ \nVELOCIDADE (Build -1 SPD): 134 ou 1 ponto de Velocidade mais lento que o carry \nVELOCIDADE (Hyperspeed): 160+ ou o mais rápido possível",
+    "imagem": "sunday.jpg"
+},
+"sushang": {
+    "titulo": "Sushang",
+    "descricao": "HP: 3000+ \nDEF: 800-1000+ \nATAQUE: 1900-2700+ \nTAXA CRÍTICA: 60%-70%+ \nDANO CRÍTICO: 120%-140%+ \nVELOCIDADE: Velocidade base (com Hyperspeed Sparkle/Bronya) / 134 (Recomendado) / 143 / 160 \nEFEITO DE QUEBRA: 0%-120%+",
+    "imagem": "sushang.jpg"
+},
+"the dahlia": {
+    "titulo": "The Dahlia",
+    "descricao": "HP: 4000-5000+ \nDEF: 1100+ \nVELOCIDADE: 160+ \nEFEITO DE QUEBRA: 200%-250%+ \nTAXA DE ACERTO DE EFEITOS (alguns Light Cones de EHR): 67%",
+    "imagem": "thedahlia.jpg"
+},
+"the herta": {
+    "titulo": "The Herta",
+    "descricao": "ATAQUE: 2500-2900+ \nHP: 2800+ \nDEF: 850+ \nTAXA CRÍTICA: 90%-100% \nDANO CRÍTICO: 100%-120%+ \nVELOCIDADE: The Herta possui vários Breakpoints de Velocidade dependendo do modo de jogo, escolhas de Relíquias e companheiros de equipe. Alguns dos mais notáveis:\n- Velocidade base (com Hyperspeed Action Advancer ou 4P Mourning Collapse)\n- 134 de Velocidade (Breakpoint genérico para endgame)\n- 160 de Velocidade (Breakpoint mais alto para endgame)\nTambém vale mencionar que Jade, uma das companheiras mais fortes de The Herta, concede 30 de Velocidade que também deve ser considerada.",
+    "imagem": "theherta.jpg"
+},
+"tingyun": {
+    "titulo": "Tingyun",
+    "descricao": "HP: 3000-3500+ \nDEF: 900-1100+ \nATAQUE: 2400-2600+ \nVELOCIDADE: 134 / 143 (Recomendado) / 160+ \nREGENERAÇÃO DE ENERGIA: 19,44%+",
+    "imagem": "tingyun.jpg"
+},
+"fugue": {
+    "titulo": "Tingyuan Fugue",
+    "descricao": "HP: 3000-4000+ \nDEF: 900-1400+ \nEFEITO DE QUEBRA: 190%+ (na tela de stats) ou 220%+ ao usar Iron Cavalry\nLembre-se que você recebe 30% de BE do A4 Trace dela, que só ativa em combate e não aparece na tela de stats.\nMesma coisa com Forge - concede 40% adicionais de BE em combate.\nAlém disso, Ruan Mei dá 20% de BE com seu A2 em combate.\nPortanto, reduza o requisito de BE acima com base em seus companheiros e Relíquias.\nTAXA DE ACERTO DE EFEITOS: 67%\nREGENERAÇÃO DE ENERGIA: 100%-124,44%+ (veja as notas de energia)\nVELOCIDADE: 142-160+ (Breakpoint em 160)",
+    "imagem": "fugue.jpg"
+},
+"topaz": {
+    "titulo": "Topaz e Dinherinho",
+    "descricao": "HP: 2800-3000+ \nDEF: 800-900+ \nATAQUE: 2100-2800+ \nTAXA CRÍTICA: 80%-90%+ \nDANO CRÍTICO: 150%-170%+ \nVELOCIDADE: 134 (Recomendado) / 143+",
+    "imagem": "topaz.jpg"
+},
+"desbravador destruição": {
+    "titulo": "Desbravador Destruição",
+    "descricao": "HP: 3400+ \nDEF: 800-1000+ \nATAQUE: 2000-2800+ \nTAXA CRÍTICA: 65%-70%+ \nDANO CRÍTICO: 120%-130%+ \nVELOCIDADE: Velocidade base (com Hyperspeed Sparkle) / 134 (Recomendado) / 143 \nEFEITO DE QUEBRA: 0%-120%+",
+    "imagem": "desbravador_destruicao.jpg"
+},
+"desbravador harmonia": {
+    "titulo": "Desbravador Harmonia",
+    "descricao": "HP: 3500-4500+ \nDEF: 950-1350+ \nVELOCIDADE: 134-145+ (se estiver usando Talia) \nEFEITO DE QUEBRA: 150%-250%+ (excluindo buff do Ultimate) \nREGENERAÇÃO DE ENERGIA: 0%-19,44%+",
+    "imagem": "desbravador_harmonia.jpg"
+}, 
+"desbravador recordação": {
+    "titulo": "Desbravador Recordação",
+    "descricao": "HP: 3000-3800+ \nDEF: 1000-1400+ \nDANO CRÍTICO: 180%-220%+ \nREGENERAÇÃO DE ENERGIA: 119,44%-124,44%+ \nVELOCIDADE (Hyperspeed): 160+ ou o mais rápido possível",
+    "imagem": "desbravador_recordacao.jpg"
+},
+"tribbie": {
+    "titulo": "Tribbie",
+    "descricao": "HP: 4000-6000+ \nDEF: 1100-1250+ \nTAXA CRÍTICA: 80%-90%+ (em combate) \nDANO CRÍTICO: 160%-180%+ \nREGENERAÇÃO DE ENERGIA: 100%-124,4%\nConsulte a seção de comentários de stats acima para mais informações.\nVELOCIDADE: Velocidade base OU 120+\nConsulte a seção de informações de Velocidade abaixo para mais detalhes.",
+    "imagem": "tribbie.jpg"
+},
+"welt": {
+    "titulo": "Welt",
+    "descricao": "HP: 3000+ \nDEF: 800-1000+ \nATAQUE: 2200-2600+ \nTAXA CRÍTICA: 50%-60%+ \nDANO CRÍTICO: 100%-120%+ \nVELOCIDADE: 134 (Recomendado) / 143 / 160 \nTAXA DE ACERTO DE EFEITOS: 43%",
+    "imagem": "welt.jpg"
+},
+"xueyi": {
+    "titulo": "Xueyi",
+    "descricao": "HP: 3200+ \nDEF: 800+ \nATAQUE: 2000-2400+ \nTAXA CRÍTICA: 60%-70%+ \nDANO CRÍTICO: 120%-140%+ \nVELOCIDADE: Velocidade base (com Hyperspeed Sparkle/Bronya) / 134 (Recomendado) / 143 / 160 \nEFEITO DE QUEBRA: 100%-150%",
+    "imagem": "xueyi.jpg"
+},
+"yanqing": {
+    "titulo": "Yanqing",
+    "descricao": "HP: 2800-3000+ \nDEF: 800-900+ \nATAQUE: 2500-2900+ \nTAXA CRÍTICA: 20% \nDANO CRÍTICO: 160%-200%+ \nVELOCIDADE: Velocidade base (com Hyperspeed Sparkle/Bronya) / 134 (Recomendado) / 143",
+    "imagem": "yanqing.jpg"
+},
+"yukong": {
+    "titulo": "Yukong",
+    "descricao": "HP: 3700-4500+ \nDEF: 700-1300+ \nVELOCIDADE: 1-2 pontos de Velocidade mais lento que o sustain \nREGENERAÇÃO DE ENERGIA: 19,44%+",
+    "imagem": "yukong.jpg"
+},
+"yunli": {
+    "titulo": "Yunli",
+    "descricao": "HP: 3400+ \nDEF: 800+ \nATAQUE: 3200-3400+ \nTAXA CRÍTICA: 90%-100%+ \nDANO CRÍTICO: 100%-120%+ \nUma proporção aceitável de crítico para Yunli é aproximadamente 100% (Taxa Crítica) para 100% (Dano Crítico). Essa proporção é crucial porque, durante combates reais, se traduz efetivamente em algo próximo de 100% (Taxa Crítica) para 200% (Dano Crítico) quando seu Ultimate e Ataques de Seguimento são utilizados.\nVELOCIDADE: 94 (Velocidade base)",
+    "imagem": "yunli.jpg"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+}
+
